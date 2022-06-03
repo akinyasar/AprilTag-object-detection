@@ -4,6 +4,7 @@ AprilTag kütüphanesi kullanılarak geliştirilmiş python nesne tanıma uygula
 
 ## Gereklilikler
 -> Python 3.6 ve üzeri sürümleri
+
 Proje ilk klonlandığından itibaren dosya dizinindeki terminale aşağıdaki komutları girerek gerekli paketleri indirebilirsiniz.
 
 1.```pip install opencv-python```
